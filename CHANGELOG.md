@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/AlejandroHerr/testing-stuff/compare/v1.1.0...v1.2.0) (2024-01-29)
+
+
+### Features
+
+* random feat ([6428674](https://github.com/AlejandroHerr/testing-stuff/commit/6428674009c5ff909f87980c3b339fe5dbe972c3))
+
 # [1.1.0](https://github.com/AlejandroHerr/testing-stuff/compare/v1.0.1...v1.1.0) (2024-01-29)
 
 
