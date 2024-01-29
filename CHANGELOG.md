@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/AlejandroHerr/testing-stuff/compare/v1.2.0...v1.3.0) (2024-01-29)
+
+
+### Features
+
+* sdsddsdsd ([3a81c19](https://github.com/AlejandroHerr/testing-stuff/commit/3a81c191e6fc278b6f7f279b293ae492798dac78))
+
 # [1.2.0](https://github.com/AlejandroHerr/testing-stuff/compare/v1.1.0...v1.2.0) (2024-01-29)
 
 
